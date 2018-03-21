@@ -68,6 +68,7 @@ class MainActivity : AppCompatActivity() {
                     ))
 
                     progressBar.visibility = View.GONE
+                    tV_oflineMessage.visibility = View.GONE
 
                 }
 
