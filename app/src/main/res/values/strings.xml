@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">finalproject</string>
+    <string name="hintSearch">Search an Album</string>
+    <string name="textMessage">There\'s no album present at this moment.</string>
+    <string name="searchAlbum">Search Album</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_band">Band Name</string>
 </resources>
